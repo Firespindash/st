@@ -6,7 +6,13 @@ So, if you are coming from my dotfiles repository this one should integrate with
 
 ## Screenshots
 
-<img src="https://github.com/siduck/dotfiles/blob/all/rice%20flex/live-reloadXresources.gif"> <br><br>
+![st-river](st-river.png) <br><br>
+st-river with nnn file manager
+![st-with-nnn](st-river-nnn.png) <br><br>
+st-river with the colorpanes.sh script
+![st-colors](st-river-colors.png) <br><br>
+st-river with the tree command
+![st-tree](st-river-tree.png) <br><br>
 
 ## Dependencies
 
@@ -108,13 +114,6 @@ you can change all of these in config.h
 
 - Xresources: [River](https://github.com/Firespindash/dotfiles)<br>
 - Font: FontForge Raize Font + Monoid with Nerd icon font
-
-## Screenshots:
-
-<img src="https://raw.githubusercontent.com/siduck/dotfiles/all/misc/delete_this/bruh.png"> <br><br>
-<img src="https://raw.githubusercontent.com/siduck/dotfiles/all/misc/delete_this/ithree0-36-43.png"> <br><br>
-<img src="https://raw.githubusercontent.com/siduck/dotfiles/all/misc/delete_this/two7-00.png"> <br><br>
-<img src="https://raw.githubusercontent.com/siduck/dotfiles/all/misc/delete_this/u.png"> <br><hr>
 
 # Credits
 
