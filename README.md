@@ -73,8 +73,8 @@ xrdb merge xresources
 - and more...
   <br>
 
-If you do not like the patch selection I recommend using st-flexipatch to make your own. I 
-tried using it, but ended just keeping a similar selection to the original.
+If you do not like the patch selection I recommend using [st-flexipatch](https://github.com/bakkeby/st-flexipatch) to make
+your own. I tried using it, but ended just keeping a similar selection to the original.
 
 ## Xresources live-reload
 
